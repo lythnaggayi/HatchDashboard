@@ -13,6 +13,7 @@ isoduration
 jsonpointer
 jupyter
 jupyterlab
+lightfm
 lxml
 opencv-python
 openpyxl
