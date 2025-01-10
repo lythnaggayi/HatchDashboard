@@ -13,7 +13,7 @@ isoduration
 jsonpointer
 jupyter
 jupyterlab
-lightfm==1.17
+lightfm
 lxml
 opencv-python
 openpyxl
